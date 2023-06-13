@@ -1,5 +1,5 @@
 # Hcaptcha Solver
-## Released in 100 Stars 
+## Released in 250 Stars 
 I'm not a guy that doesn't follow the instruction and wouldn't add stars when it reached
 If it reached to 100 stars I would definitely release (But no bots please)
 ## Early Release (PAID)

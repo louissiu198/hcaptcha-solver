@@ -1,7 +1,7 @@
 # Hcaptcha Solver
 ## Released in 250 Stars 
 I'm not a guy that doesn't follow the instruction and wouldn't add stars when it reached
-If it reached to 100 stars I would definitely release (But no bots please)
+If it reached to 250 stars I would definitely release (But no bots please)
 ## Early Release (PAID)
 300 Usd For Source Code (5 folders, 4 main files, 2 trained image model and text model)
 150 Usd For API Access (lifetime, have updates if patched or flagged)

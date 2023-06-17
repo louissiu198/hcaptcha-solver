@@ -1,5 +1,6 @@
 # Hcaptcha Solver
-## Released in 250 Stars 
+## Free API Released in 20 Stars 
+## Source Code Released in 250 Stars 
 I'm not a guy that doesn't follow the instruction and wouldn't add stars when it reached
 If it reached to 250 stars I would definitely release (But no bots please)
 ## Early Release (PAID)
